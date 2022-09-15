@@ -1,2 +1,2 @@
 # responsive-bank-template
-Responsive template with HTML, CSS, JavaScript and Bootstrap
+Responsive template example using HTML, JavaScript, CSS and Bootstrap.
